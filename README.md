@@ -1,2 +1,2 @@
 # A_CHANNEL_MIX_METHOD
-A Channel Mix Method for Fine-Grained Cross-Modal Retrieval
+This is the MindSpore implementation of the paper "A Channel Mix Method for Fine-Grained Cross-Modal Retrieval".
